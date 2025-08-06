@@ -1,7 +1,7 @@
 <h2><b> Hackathon - September 2025 </b></h2>
 <h3>Venue : National Institute on Aging (NIA/NIH)</h3>
 
-<3h3>Created/Managed By: Dr. Showkat A. Dar (Maragkakis Lab)</h3>
+<h3>Created/Managed By: Dr. Showkat A. Dar (Maragkakis Lab)</h3>
 
 <h2> Welcome !!!</h2>
 
