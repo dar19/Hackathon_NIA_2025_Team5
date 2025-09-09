@@ -18,10 +18,11 @@ Develop skills transferable to many domains where sequence, image, or tabular da
 Contribute to cutting-edge drug design research with practical impact.
 
 <h2>Who Should Participate?</h2>
-Python programmers with a basic understanding of machine learning (preferably familiar with scikit-learn).
-Beginners eager to learn ML concepts applied to bioinformatics and drug design.
+Absolute beginners who what to have the taste of ML/AI in biology or to learn ML concepts applied to bioinformatics and drug design etc.
 Participants with no prior deep learning experience—starter code and comprehensive guidance will be provided.
 Anyone passionate about applying ML to solve real-world biomedical problems.
+Python programmers with a basic understanding of machine learning (preferably familiar with scikit-learn).
+
 
 <h2>Features</h2>
 Curated Dataset: 4500+ siRNA sequences with chemical modification metadata.
