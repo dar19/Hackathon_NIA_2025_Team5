@@ -1,1 +1,1 @@
-This folder contains presentations for background understanding of biological problem and machine learning.
+This folder contains presentations for background understanding of biological problem and machine learning/AI in general.
