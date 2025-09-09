@@ -65,7 +65,7 @@ For support, please contact [showkat.dar19@gmail.com, showkat.dar@nih.gov].
 
 Connect with me: LinkedIn - [https://www.linkedin.com/in/showkat-dar-phd/]
 
-Ready to jumpstart your ML/AI journey and contribute to next-generation RNA therapeutics?
+Ready to jumpstart your ML/AI journey and contribute to solving your next biological problem?
 
-Let’s get coding!
+Let’s get AI!
 
