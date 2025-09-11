@@ -13,7 +13,7 @@ You will work with a high-quality, curated dataset containing over 4,500 experim
 
 This project provides a unique opportunity to:
 Learn feature engineering for biological sequences with chemical modification data.
-Build and compare a variety of machine learning models including Random Forests, Gradient Boosting Machines, Support Vector Machines (SVMs), and prototype 1D Convolutional Neural Networks (CNNs).
+Build and compare a variety of machine learning models including Linear Regression (LR), K-Nearest Neighbours (K-NN), Artificaical Neural networks (ANN),  Support Vector Machines (SVMs), and 1D Convolutional Neural Networks (CNNs).
 Develop skills transferable to many domains where sequence, image, or tabular data are central.
 Contribute to cutting-edge drug design research with practical impact.
 
