@@ -34,7 +34,7 @@ Below is a description of the files and their usage.
 
 ---
 
-## ✅ Usage Notes
+## Usage Notes
 - Start with `smdb_data.csv` if you need **raw unprocessed data**.  
 - Use `siRNAs_cleaned_input.txt` as a **reference for cleaning steps**.  
 - For AI/ML experiments, **always use** `sirna_final_sequences_24length_for_input.tsv`.
