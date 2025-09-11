@@ -1,13 +1,42 @@
-This folder contains data.
-Below is the description of files and how to use them.
+# 📂 Dataset Overview
 
-I) smdb_data.csv - It contains all the database information PMIDS, siRNAs, sequences, efficicy modifications and much more. This is the basic raw data.
+This folder contains **data files** used for siRNA analysis and machine learning workflows.  
+Below is a description of the files and their usage.
 
-II) siRNAs_cleaned_input.txt - IT is pre clenaed data but serves as a good example for explorationa and cleaning the data and selecting final input for ML/AI.
-This file is cleaned and processed as shown in 
+---
 
-III) Use sirna_final_sequences_24length_for_input.tsv file as input for AI/ML models as it has 24 nucletide lengths for sense and antisense with effeicay in numbnerical values.
+## 📑 File Descriptions
 
+### 1. **`smdb_data.csv`**
+- Contains the **complete database information**:  
+  - PMIDs  
+  - siRNAs  
+  - Sequences  
+  - Efficacy modifications  
+  - And more...  
+- This is the **basic raw data** source.
 
+---
 
+### 2. **`siRNAs_cleaned_input.txt`**
+- A **pre-cleaned dataset**, useful as an **example for exploration and data cleaning**.  
+- Helps in **selecting the final input** for ML/AI models.  
+- This file has already been **cleaned and processed** (as demonstrated in the workflow).
 
+---
+
+### 3. **`sirna_final_sequences_24length_for_input.tsv`**
+- The **final input file** for AI/ML models.  
+- Contains:  
+  - **24-nucleotide sequences** (sense & antisense)  
+  - **Efficacy values** in numerical format  
+- Ready to be used directly in model training/testing.
+
+---
+
+## ✅ Usage Notes
+- Start with `smdb_data.csv` if you need **raw unprocessed data**.  
+- Use `siRNAs_cleaned_input.txt` as a **reference for cleaning steps**.  
+- For AI/ML experiments, **always use** `sirna_final_sequences_24length_for_input.tsv`.
+
+---
